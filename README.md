@@ -1,4 +1,4 @@
-# GoogleGataAnalyticsCase
+# TABLEAU AND SQL PROJECT : Bike-Share Dashboard
 Bike-Share Dashboard
 -	Successfully completed a case study project as part of the final course for Google Data Analytics Certification.
 -	Conducted analysis to identify the month with the highest number of rides, analyzed customer preferences to determine the most preferred rideable type, and   
